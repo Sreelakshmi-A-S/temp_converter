@@ -1,10 +1,7 @@
 # Temperature Converter
-Converts temperature (in C, F or K) to other units.
+This web application allows users to convert temperatures between Celsius (°C), Fahrenheit (°F), and Kelvin (K).
 
-### Live version: ###
-https://temperatureconverter.netlify.com
-
-### Created using: ###
+## Technologies Used
 - HTML
 - CSS
 - Bootstrap
